@@ -1,0 +1,9 @@
+[
+    {
+      "origin": ["https://cinchsight.netlify.app"],
+      "responseHeader": ["Content-Type"],
+      "method": ["GET", "HEAD"],
+      "maxAgeSeconds": 3600
+    }
+  ]
+  
